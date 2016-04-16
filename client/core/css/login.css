@@ -1,0 +1,51 @@
+.page-content-wrapper.login {
+  margin: 0 !important;
+  padding: 0 !important; }
+
+.login {
+  width: 100%;
+  top: 40px; }
+
+.login * {
+  border-radius: 0 !important; }
+
+.loginpanel {
+  background-image: none;
+  background-color: #1e3e95;
+  width: 390px; }
+  .loginpanel .row.header {
+    margin-top: 15px; }
+  .loginpanel .loginheadline {
+    font-size: 17px;
+    margin: 0px;
+    padding: 0px;
+    color: #eee;
+    text-align: left;
+    margin-bottom: 20px; }
+  .loginpanel .loginbutton {
+    background-color: #619ed3;
+    border-color: #70a7d7;
+    color: white; }
+  .loginpanel .profile-img {
+    width: 100px;
+    float: right;
+    margin-bottom: 20px;
+    display: block; }
+  .loginpanel .input-group-addon .fa {
+    color: #478AC9; }
+  .loginpanel .invalid-data {
+    color: white; }
+
+.error.ng-enter {
+  -webkit-transition: 0.5s linear all;
+  -moz-transition: 0.5s linear all;
+  -o-transition: 0.5s linear all;
+  transition: 0.5s linear all; }
+
+.error.ng-enter {
+  opacity: 0; }
+
+.error.ng-enter.ng-enter-active {
+  opacity: 1; }
+
+/*# sourceMappingURL=login.css.map */
